@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraceHubSlimDemo", "TraceHubSlimDemo\TraceHubSlimDemo.csproj", "{269AEBC5-F80D-4774-97AE-5D5B92CA59DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraceHubMvcDemo.Security", "TraceHubMvcDemo.Security\TraceHubMvcDemo.Security.csproj", "{FBAF5790-83AF-4FAF-99D9-C0348245D69B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthDbCreator", "AuthDbCreator\AuthDbCreator.csproj", "{CE6C5C03-6D66-4B74-BC0B-E3413937A51F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraceHubMvcWebApi", "TraceHubMvcWebApi\TraceHubMvcWebApi.csproj", "{4647B225-AEAF-453F-8AD9-CC9CF566C9FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraceHubMvcDemo", "TraceHubMvcDemo\TraceHubMvcDemo.csproj", "{749A2668-CF61-4201-A443-D95015395B01}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FEF5EE79-2949-46D9-A749-7CBB20175FBA}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{269AEBC5-F80D-4774-97AE-5D5B92CA59DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{269AEBC5-F80D-4774-97AE-5D5B92CA59DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{269AEBC5-F80D-4774-97AE-5D5B92CA59DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{269AEBC5-F80D-4774-97AE-5D5B92CA59DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBAF5790-83AF-4FAF-99D9-C0348245D69B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBAF5790-83AF-4FAF-99D9-C0348245D69B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBAF5790-83AF-4FAF-99D9-C0348245D69B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBAF5790-83AF-4FAF-99D9-C0348245D69B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE6C5C03-6D66-4B74-BC0B-E3413937A51F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE6C5C03-6D66-4B74-BC0B-E3413937A51F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE6C5C03-6D66-4B74-BC0B-E3413937A51F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE6C5C03-6D66-4B74-BC0B-E3413937A51F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4647B225-AEAF-453F-8AD9-CC9CF566C9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4647B225-AEAF-453F-8AD9-CC9CF566C9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4647B225-AEAF-453F-8AD9-CC9CF566C9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4647B225-AEAF-453F-8AD9-CC9CF566C9FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{749A2668-CF61-4201-A443-D95015395B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{749A2668-CF61-4201-A443-D95015395B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{749A2668-CF61-4201-A443-D95015395B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{749A2668-CF61-4201-A443-D95015395B01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
