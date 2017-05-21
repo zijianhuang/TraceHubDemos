@@ -26,4 +26,6 @@ namespace TraceHubSlimDemo
 }
 ```
 
+3. Build and deploy your project, then you could access TraceHub Slim at something like http://YourProject.com/logging.html
 
+#
