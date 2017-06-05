@@ -45,11 +45,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Fonlow.TraceHub.Common, Version=1.4.0.0, Culture=neutral, PublicKeyToken=6dfecb68025d5196, processorArchitecture=MSIL">
-      <HintPath>..\packages\Fonlow.TraceHub.Core.1.4.0\lib\net452\Fonlow.TraceHub.Common.dll</HintPath>
+      <HintPath>..\packages\Fonlow.TraceHub.Core.1.5.0\lib\net452\Fonlow.TraceHub.Common.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="Fonlow.TraceHub.Core, Version=1.4.0.0, Culture=neutral, PublicKeyToken=6dfecb68025d5196, processorArchitecture=MSIL">
-      <HintPath>..\packages\Fonlow.TraceHub.Core.1.4.0\lib\net452\Fonlow.TraceHub.Core.dll</HintPath>
+    <Reference Include="Fonlow.TraceHub.Core, Version=1.5.0.0, Culture=neutral, PublicKeyToken=6dfecb68025d5196, processorArchitecture=MSIL">
+      <HintPath>..\packages\Fonlow.TraceHub.Core.1.5.0\lib\net452\Fonlow.TraceHub.Core.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.AspNet.SignalR.Core, Version=2.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
@@ -86,7 +86,7 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="PriorityQueue, Version=3.0.2.0, Culture=neutral, PublicKeyToken=6ac02d970e4f7733, processorArchitecture=MSIL">
-      <HintPath>..\packages\Fonlow.TraceHub.Core.1.4.0\lib\net452\PriorityQueue.dll</HintPath>
+      <HintPath>..\packages\Fonlow.TraceHub.Core.1.5.0\lib\net452\PriorityQueue.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System.Data.DataSetExtensions" />
@@ -110,8 +110,8 @@
     <Content Include="index.html" />
     <Content Include="Logging.html" />
     <Content Include="packages.config" />
-    <Content Include="Scripts\custom\logging.js" />
     <None Include="Scripts\jquery-3.1.1.intellisense.js" />
+    <Content Include="Scripts\custom\logging.js" />
     <Content Include="Scripts\jquery-3.1.1.js" />
     <Content Include="Scripts\jquery-3.1.1.min.js" />
     <Content Include="Scripts\jquery-3.1.1.slim.js" />
