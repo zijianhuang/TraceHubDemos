@@ -45,7 +45,7 @@ Steps:
 
 # WCF Service and TraceHub Demo
 
-A more complex demo is persisted in [another repository](github.com/zijianhuang/HelloWorldAuth/tree/branches/TraceHub). This demo is based on article [WCF for the Real World, Not Hello World, Part II](https://www.codeproject.com/Articles/1130178/WCF-for-the-Real-World-Not-Hello-World-Part-II). 
+A more complex demo is persisted in [another repository](https://github.com/zijianhuang/HelloWorldAuth/tree/branches/TraceHub). This demo is based on article [WCF for the Real World, Not Hello World, Part II](https://www.codeproject.com/Articles/1130178/WCF-for-the-Real-World-Not-Hello-World-Part-II). 
 
 So there's already a WCF Web service. Now you want to log remotely. 
 
