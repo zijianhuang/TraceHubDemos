@@ -54,3 +54,11 @@ Steps:
 2. Modify web.config to inject the listener.
 
 Have a look at web.config, you will see the beauty of using System.Diagnostics compatible technologies: the traces emitted by trace sources in .NET Frameworks could be easily viewable in TraceHub.
+
+
+In addition to your favoriate way of running multiple applications during development, here's an alternative way:
+1. In the properties pans of both Web projects, turn "Always Start When Debugging" to false; and ensure both sites are not launched by IDE. If they are already running as found in the IIS Express trayicon, shut them down.  
+1. Run StartWcfService1.ps1 and StartTraceHubSlim.ps1 in the root folder. And launch a Web browser to view http://localhost:30510/logging.html
+1. Run the integration tests.
+
+You will see a lot trace messages appearing in the Web page.
